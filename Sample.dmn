@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <xml>
 	<LogisticsStatus>
-	<PONumber>BE5/O-0138/PO23</PONumber>
-	<GRNNumber>BE5/O-0054/GRN23</GRNNumber>
-	<ShipmentId>000111</ShipmentId>
-	<StatusofLogistics>Forwarded to Warehouse</StatusofLogistics>
-	<AWB>AWB001</AWB>
-	<ETD>2023-09-15</ETD>
-	<ETA>2023-09-14</ETA>
-	<ATD>2023-09-13</ATD>
-	<ATA>2023-09-12</ATA>
+	<PONumber>BE5/O-0149/PO23</PONumber>
+	<GRNNumber/>
+	<ShipmentId>8269429</ShipmentId>
+	<StatusofLogistics>Delivered Shorebase Warehouse</StatusofLogistics>
+	<AWB/>
+	<ETD>2023-09-14</ETD>
+	<ETA>2023-09-15</ETA>
+	<ATD>2023-09-15</ATD>
+	<ATA/>
 	</LogisticsStatus>
 </xml>
