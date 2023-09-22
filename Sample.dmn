@@ -1,14 +1,156 @@
-<?xml version="1.0"?>
-<xml>
-	<LogisticsStatus>
-	<PONumber>BE5/O-0149/PO23</PONumber>
-	<GRNNumber/>
-	<ShipmentId>8269429</ShipmentId>
-	<StatusofLogistics>Delivered Shorebase Warehouse</StatusofLogistics>
-	<AWB/>
-	<ETD>2023-09-14</ETD>
-	<ETA>2023-09-15</ETA>
-	<ATD>2023-09-15</ATD>
-	<ATA/>
-	</LogisticsStatus>
-</xml>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PO_107_EXPORT_VENDOR_TO_PAL>
+<LIST_Vendor>
+<Vendor>
+<VendorName>ELCOME INTERNATIONAL-USD-USD</VendorName>
+<VendorCode>81224</VendorCode>
+<Parentvendorcode>112352</Parentvendorcode>
+<Parentvendorname>ELCOME INTERNATIONAL</Parentvendorname>
+<VendorCategory>CAT018-SUBCAT048</VendorCategory>
+<VendorStatus>Approved</VendorStatus>
+<Activestatus>Active</Activestatus>
+<Rating>N/A</Rating>
+<Currency>USD</Currency>
+<Country>AE</Country>
+<City>DUBAI</City>
+<ZipCode/>
+<Address>DUBAI INVESTMENT PARK 598-1121-PO BOX 1788--</Address>
+<Email/>
+<Modifiedby>BATCH</Modifiedby>
+<Modifiedon>21/09/2023 16:11:33</Modifiedon>
+<LIST_VENDORCONTACT>
+<VENDORCONTACT>
+<ContactName>-AKIL-UPADHAY</ContactName>
+<Designation>directeur commercial</Designation>
+<ContactEmail>akil@elcome.ae</ContactEmail>
+<ContactPhone1/>
+<ContactPhone2/>
+</VENDORCONTACT>
+<VENDORCONTACT>
+<ContactName>--REHAN</ContactName>
+<Designation/>
+<ContactEmail>rehan@elcome.com</ContactEmail>
+<ContactPhone1/>
+<ContactPhone2/>
+</VENDORCONTACT>
+<VENDORCONTACT>
+<ContactName>--Jay-R Abiera</ContactName>
+<Designation/>
+<ContactEmail>jay.abiera@elcome.com</ContactEmail>
+<ContactPhone1>971 4 8121346</ContactPhone1>
+<ContactPhone2/>
+</VENDORCONTACT>
+<VENDORCONTACT>
+<ContactName>-Rehan-SOHAIL</ContactName>
+<Designation>VENDEUR</Designation>
+<ContactEmail>rehan@elcome.com</ContactEmail>
+<ContactPhone1/>
+<ContactPhone2/>
+</VENDORCONTACT>
+<VENDORCONTACT>
+<ContactName>-Pramod-Nair</ContactName>
+<Designation/>
+<ContactEmail>info@elcome.com</ContactEmail>
+<ContactPhone1>+971 4 8121333</ContactPhone1>
+<ContactPhone2/>
+</VENDORCONTACT>
+</LIST_VENDORCONTACT>
+<LIST_ApplicableCompanies>
+<ApplicableCompanies>
+<Location>301</Location>
+</ApplicableCompanies>
+</LIST_ApplicableCompanies>
+</Vendor>
+<Vendor>
+<VendorName>ELCOME INTERNATIONAL-USD-AED</VendorName>
+<VendorCode>81225</VendorCode>
+<Parentvendorcode>112352</Parentvendorcode>
+<Parentvendorname>ELCOME INTERNATIONAL</Parentvendorname>
+<VendorCategory>CAT018-SUBCAT048</VendorCategory>
+<VendorStatus>Approved</VendorStatus>
+<Activestatus>Active</Activestatus>
+<Rating>N/A</Rating>
+<Currency>AED</Currency>
+<Country>AE</Country>
+<City>DUBAI</City>
+<ZipCode/>
+<Address>DUBAI INVESTMENT PARK 598-1121-PO BOX 1788--</Address>
+<Email/>
+<Modifiedby>BATCH</Modifiedby>
+<Modifiedon>21/09/2023 16:11:33</Modifiedon>
+<LIST_VENDORCONTACT>
+<VENDORCONTACT>
+<ContactName>-Pramod-Nair</ContactName>
+<Designation/>
+<ContactEmail>info@elcome.com</ContactEmail>
+<ContactPhone1>+971 4 8121333</ContactPhone1>
+<ContactPhone2/>
+</VENDORCONTACT>
+<VENDORCONTACT>
+<ContactName>-AKIL-UPADHAY</ContactName>
+<Designation>directeur commercial</Designation>
+<ContactEmail>akil@elcome.ae</ContactEmail>
+<ContactPhone1/>
+<ContactPhone2/>
+</VENDORCONTACT>
+<VENDORCONTACT>
+<ContactName>--REHAN</ContactName>
+<Designation/>
+<ContactEmail>rehan@elcome.com</ContactEmail>
+<ContactPhone1/>
+<ContactPhone2/>
+</VENDORCONTACT>
+<VENDORCONTACT>
+<ContactName>--Jay-R Abiera</ContactName>
+<Designation/>
+<ContactEmail>jay.abiera@elcome.com</ContactEmail>
+<ContactPhone1>971 4 8121346</ContactPhone1>
+<ContactPhone2/>
+</VENDORCONTACT>
+<VENDORCONTACT>
+<ContactName>-Rehan-SOHAIL</ContactName>
+<Designation>VENDEUR</Designation>
+<ContactEmail>rehan@elcome.com</ContactEmail>
+<ContactPhone1/>
+<ContactPhone2/>
+</VENDORCONTACT>
+</LIST_VENDORCONTACT>
+<LIST_ApplicableCompanies>
+<ApplicableCompanies>
+<Location>301</Location>
+</ApplicableCompanies>
+</LIST_ApplicableCompanies>
+</Vendor>
+<Vendor>
+<VendorName>ELCOME INTERNATIONAL-BAHRAIN-BAHRAIN</VendorName>
+<VendorCode>616439</VendorCode>
+<Parentvendorcode>112352</Parentvendorcode>
+<Parentvendorname>ELCOME INTERNATIONAL</Parentvendorname>
+<VendorCategory>CAT018-SUBCAT048</VendorCategory>
+<VendorStatus>Approved</VendorStatus>
+<Activestatus>Active</Activestatus>
+<Rating>N/A</Rating>
+<Currency>EUR</Currency>
+<Country>BH</Country>
+<City/>
+<ZipCode/>
+<Address>MANAMA, KINGDOM OF BAHRAIN-P.O. BOX: 55114--</Address>
+<Email/>
+<Modifiedby>BATCH</Modifiedby>
+<Modifiedon>21/09/2023 15:21:37</Modifiedon>
+<LIST_VENDORCONTACT>
+<VENDORCONTACT>
+<ContactName>-JOHN-THOMAS</ContactName>
+<Designation/>
+<ContactEmail>elcomint@batelco.com.bh</ContactEmail>
+<ContactPhone1/>
+<ContactPhone2/>
+</VENDORCONTACT>
+</LIST_VENDORCONTACT>
+<LIST_ApplicableCompanies>
+<ApplicableCompanies>345</ApplicableCompanies>
+</LIST_ApplicableCompanies>
+</Vendor>
+</LIST_Vendor>
+</PO_107_EXPORT_VENDOR_TO_PAL>
